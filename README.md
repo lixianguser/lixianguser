@@ -1,6 +1,6 @@
 ### Hi I'm Sean 👋
 
-👨‍🔧 Five years of experience as an Electrical Engineer
+👨‍🔧 Five years of experience as an Electrical Engineer  
 🇨🇳 Born in China,Shanghai  
 🇨🇿 Recently living in the Czech Republic  
 
