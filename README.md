@@ -6,4 +6,5 @@
 
 ### What I'm working on 👨🏻‍💻  
 🧰 On business trip to the Czech Republic  
-🦾 Currently building an Add-In with SIEMENS TIA Portal Openness - [Kengic-Opns](https://github.com/lixianguser/Kengic-Opns)
+🦾 Currently building an Add-In with SIEMENS TIA Portal Openness - [TIA_Add-In_BlockAutoNumber](https://github.com/lixianguser/TIA_Add-In_BlockAutoNumber)
+💻 Focus on Siemens TIA Openness platform development
